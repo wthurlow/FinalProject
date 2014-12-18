@@ -1,9 +1,9 @@
 class CreateSingles < ActiveRecord::Migration
   def change
     create_table :singles do |t|
-      t.reference :artist
+      t.references :artist
       t.string :title
-      t.sting :rpm
+      t.string :rpm
       t.string :bpm
       t.string :genre
 
