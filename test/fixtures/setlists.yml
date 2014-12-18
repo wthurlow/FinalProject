@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  venue: 
+  name: MyString
+  datetime: 2014-12-18 21:55:10
+  genre: MyString
+
+two:
+  venue: 
+  name: MyString
+  datetime: 2014-12-18 21:55:10
+  genre: MyString
